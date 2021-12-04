@@ -2,7 +2,7 @@
 Capture The Flag Plugin Kinda Outdated
 
 ## Information
-MickedPlay Made This I made a bad voting system for it, I don't recommend using it, unless you get rid of the bad code, this is open source.
+MickedPlay Made This I made a bad voting system for it (In 2017), I don't recommend using it, unless you get rid of the bad code, this is open source.
 
 ## Disclaimer
 Do not misuse this.
