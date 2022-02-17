@@ -1,5 +1,5 @@
 # CaptureTheFlag
-Capture The Flag Plugin Kinda Outdated
+Capture The Flag Plugin Old and bad code
 
 ## Information
 MickedPlay Made This I made a bad voting system for it (In 2017), I don't recommend using it, unless you get rid of the bad code, this is open source.
