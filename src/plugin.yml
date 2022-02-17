@@ -1,6 +1,6 @@
 name: CaptureTheFlag
 main: play.mickedplay.ctf.CTFPlugin
-author: Spoony
+author: Spoony, Mikedplay
 version: 3.0.0
 depend: []
 commands:
