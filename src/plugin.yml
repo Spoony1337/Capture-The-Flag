@@ -1,0 +1,12 @@
+name: CaptureTheFlag
+main: play.mickedplay.ctf.CTFPlugin
+author: Spoony
+version: 3.0.0
+depend: []
+commands:
+  timer:
+    description:
+    usage:
+  r:
+    description:
+    usage:

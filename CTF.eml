@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="lombok.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/lombok.jar!/"/>
+	</lib>
+	<lib name="spigot-1.8.8-R0.1-SNAPSHOT-latest (1).jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/libs/spigot-1.8.8-R0.1-SNAPSHOT-latest (1).jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/libs/spigot-1.8.8-R0.1-SNAPSHOT-latest (1).jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/spigot-1.8.8-R0.1-SNAPSHOT-latest (1).jar!/"/>
+	</lib>
+	<lib name="EffectLib-5.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/EffectLib-5.0.jar!/"/>
+	</lib>
+</component>
